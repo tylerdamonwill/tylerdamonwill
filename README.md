@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on anyone that wants to build web apps 💻 or play rocket league🎮.
 - 📫 How to reach me tylerdamonwill@gmail.com
 
-- 🖥 Check out my blog, https://tylerdamonwill.herokuapp.com/blog.
+- 🖥 Check out my blog, https://tylerdamonwill.com.
 
 <!---
 tylerdamonwill/tylerdamonwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
